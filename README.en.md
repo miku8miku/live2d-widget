@@ -9,7 +9,7 @@
 
 [中文](README.md)
 
-## Features
+## Featureshh
 
 Add Live2D widget to web page. Compatible with PJAX.
 
